@@ -1,0 +1,21 @@
+site_name: Project Raki
+theme:
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  name: material
+  language: zh
+  
+  palette:
+    scheme: default
+    primary: deep purple
+    accent: red
+  font:
+    text: 'Quicksand'
+markdown_extensions:
+  - attr_list
+copyright: Copyright &copy; 2018 - 2021 Project Raki
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<wm@greysea.cc>
