@@ -8,9 +8,9 @@ on:
   pull_request:
     branches:
       - main
-  schedule:
+  # schedule:
     # 每天6:30和18:30触发
-    - cron:  '30 6,18 * * *'
+    # - cron:  '30 6,18 * * *'
   workflow_dispatch:
 
 jobs:
