@@ -1,0 +1,31 @@
+name: Publish docs via GitHub Pages
+on:
+  #push触发
+  push:
+    branches:
+      - main
+  #PR触发
+  pull_request:
+    branches:
+      - main
+  schedule:
+    # 每天6:30和18:30触发
+    - cron:  '30 6,18 * * *'
+
+jobs:
+  build:
+    name: Deploy docs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v2
+
+      - name: Deploy docs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # CUSTOM_DOMAIN: optionaldomain.com
+          CONFIG_FILE: ./mkdocs.yml
+          EXTRA_PACKAGES: build-base
+          # GITHUB_DOMAIN: github.myenterprise.com
+          # REQUIREMENTS: folder/requirements.txt
