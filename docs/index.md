@@ -10,11 +10,13 @@ Welcome to Project Raki, a project for everyone in Nankai University.
 
 **[nkuhole.com（推荐）](https://nkuhole.com)**
 
+**[www.nkuhole.com（备份）](https://www.nkuhole.com)**
+
 **[raki.w-m.fun](https://raki.w-m.fun)**
 
 **[raki.greysea.cc](https://raki.greysea.cc)**
 
-非推荐网址将在平时301重定向至推荐网址。
+除备份外，非推荐网址将在平时301重定向至推荐网址。
 
 为保证高可用性，内容分发网络存有根服务器的长效缓存。任何更新均需要经过全球节点刷新才可访问，刷新完成前可能会导致您和您朋友看到的页面版本有差异。
 
@@ -50,6 +52,8 @@ Welcome to Project Raki, a project for everyone in Nankai University.
 此项目已在[GitHub开源](https://github.com/Shall-We-Dance/ProjectRaki)，欢迎Pull Request！
 
 请在`doc`文件夹中完成创作，完成后网站自动刷新。
+
+我们使用[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可。
 
 ### 联系方式
 
