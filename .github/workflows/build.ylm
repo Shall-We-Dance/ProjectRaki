@@ -10,7 +10,8 @@ on:
       - main
   schedule:
     # 每天6:30和18:30触发
-    - cron:  '10 6,18 * * *'
+    - cron:  '15 6,18 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
