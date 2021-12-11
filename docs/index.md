@@ -51,7 +51,7 @@ Welcome to Project Raki, a project for everyone in Nankai University.
 
 此项目已在[GitHub开源](https://github.com/Shall-We-Dance/ProjectRaki)，欢迎Pull Request！
 
-请在`doc`文件夹中完成创作，完成后网站自动刷新。
+请在`docs`文件夹中完成创作，完成后网站自动刷新。
 
 我们使用[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可。
 
