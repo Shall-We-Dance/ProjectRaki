@@ -51,6 +51,8 @@ Welcome to Project Raki, a project for everyone in Nankai University.
 
 请在`doc`文件夹中完成创作，完成后网站自动刷新。
 
+我们使用[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可。
+
 ### 联系方式
 
 如果您觉得我们可以做的更好，或者认为内容构成侵权，请联系我们。
