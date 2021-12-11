@@ -1,12 +1,6 @@
 # Project Raki
 
-Raki的中文名是拉克酒，透明无色，加水会变白。
-
-我们在这里记录N大的生存指南。
-
--- W.M.
-
-Last Update: Dec. 5, 2021 (UTC-8)
+Welcome to Project Raki, a project for everyone in Nankai University.
 
 ## 网址
 
