@@ -1,12 +1,8 @@
 # Project Raki
 
-Raki的中文名是拉克酒，透明无色，加水会变白。
+Welcome to Project Raki, a project for everyone in Nankai University.
 
-我们在这里记录N大的生存指南。
-
--- W.M.
-
-Last Update: Dec. 5, 2021 (UTC-8)
+我们已经完全在[GitHub开源](https://github.com/Shall-We-Dance/ProjectRaki)啦！
 
 ## 网址
 
@@ -47,26 +43,16 @@ Last Update: Dec. 5, 2021 (UTC-8)
 
 ### 贡献内容
 
-目前仅整理了生科院的专业课，所有同学都被欢迎参与这个项目，无论专业、年级。
-
-此项目已在[GitHub开源](https://github.com/Shall-We-Dance/ProjectRaki)，欢迎Pull Request！
-
-#### 提供信息
-
-邮件标题：请指明分类与具体页面。
-
-邮件内容：您提供的评论/信息，并给出您的笔名。
-
-将信息邮件发送至**wm@greysea.cc**。
-
-#### 提供页面
-
 本文档使用MarkDown语言完成，请将文本编辑为MarkDown格式。
 
 **[MarkDown语法（中文）](https://markdown-zh.readthedocs.io/en/latest/overview/)**
 
+此项目已在[GitHub开源](https://github.com/Shall-We-Dance/ProjectRaki)，欢迎Pull Request！
 
+请在`doc`文件夹中完成创作，网页每12小时自动刷新。
 
 ### 联系方式
+
+如果您觉得我们可以做的更好，或者认为内容构成侵权，请联系我们。
 
 Email：**wm@greysea.cc**
