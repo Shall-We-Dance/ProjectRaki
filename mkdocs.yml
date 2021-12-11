@@ -17,5 +17,7 @@ copyright: Copyright &copy; 2018 - 2021 Project Raki
 extra:
   generator: false
   social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Shall-We-Dance/ProjectRaki
     - icon: fontawesome/solid/paper-plane
       link: mailto:<wm@greysea.cc>
