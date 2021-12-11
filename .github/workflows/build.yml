@@ -25,7 +25,7 @@ jobs:
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CUSTOM_DOMAIN: nkuhole.com
+          CUSTOM_DOMAIN: www.nkuhole.com
           CONFIG_FILE: ./mkdocs.yml
           EXTRA_PACKAGES: build-base
           # GITHUB_DOMAIN: github.myenterprise.com
