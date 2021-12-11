@@ -10,11 +10,13 @@ Welcome to Project Raki, a project for everyone in Nankai University.
 
 **[nkuhole.com（推荐）](https://nkuhole.com)**
 
+**[www.nkuhole.com（备份）](https://www.nkuhole.com)**
+
 **[raki.w-m.fun](https://raki.w-m.fun)**
 
 **[raki.greysea.cc](https://raki.greysea.cc)**
 
-非推荐网址将在平时301重定向至推荐网址。
+除备份外，非推荐网址将在平时301重定向至推荐网址。
 
 为保证高可用性，内容分发网络存有根服务器的长效缓存。任何更新均需要经过全球节点刷新才可访问，刷新完成前可能会导致您和您朋友看到的页面版本有差异。
 
