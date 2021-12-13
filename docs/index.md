@@ -2,7 +2,7 @@
 
 Welcome to Project Raki, a project for everyone in Nankai University.
 
-我们已经完全在[GitHub开源](https://github.com/Shall-We-Dance/ProjectRaki)啦！
+我们已经完全在[GitHub开源](https://github.com/Shall-We-Dance/ProjectRaki)啦，欢迎来收藏/贡献内容！
 
 ## 网址
 
@@ -26,6 +26,8 @@ Welcome to Project Raki, a project for everyone in Nankai University.
 
 ## 隐私
 
+您的隐私对我们而言非常重要！
+
 本网站根服务器与内容分发网络不会采集您的任何信息，访问经过HTTPS加密。
 
 本网站呈现的内容经过筛选，任何隐私泄露都是不可容忍的。
@@ -45,15 +47,10 @@ Welcome to Project Raki, a project for everyone in Nankai University.
 
 ### 贡献内容
 
-本文档使用MarkDown语言完成，请将文本编辑为MarkDown格式。
+本文档使用MarkDown语言完成，本项目使用GitHub Action实现自助提交，自动更新。
 
-**[MarkDown语法（中文）](https://markdown-zh.readthedocs.io/en/latest/overview/)**
+详见GitHub[ProjectRaki](https://github.com/Shall-We-Dance/ProjectRaki)。
 
-此项目已在[GitHub开源](https://github.com/Shall-We-Dance/ProjectRaki)，欢迎Pull Request！
-
-请在`docs`文件夹中完成创作，完成后网站自动刷新。
-
-我们使用[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可。
 
 ### 联系方式
 
