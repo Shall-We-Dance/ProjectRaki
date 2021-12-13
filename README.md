@@ -2,8 +2,6 @@
 
 Welcome to Project Raki, a project for everyone in Nankai University.
 
-我们已经完全在[GitHub开源](https://github.com/Shall-We-Dance/ProjectRaki)啦！
-
 ## 网址
 
 目前启动以下网址，可能会随时间更新，请关注。
@@ -18,15 +16,9 @@ Welcome to Project Raki, a project for everyone in Nankai University.
 
 除备份外，非推荐网址将在平时301重定向至推荐网址。
 
-为保证高可用性，内容分发网络存有根服务器的长效缓存。任何更新均需要经过全球节点刷新才可访问，刷新完成前可能会导致您和您朋友看到的页面版本有差异。
-
-## 搜索
-
-你可以在右上角搜索框搜索任何东西。
-
 ## 隐私
 
-本网站根服务器与内容分发网络不会采集您的任何信息，访问经过HTTPS加密。
+本网站与内容分发网络（CDN）**不会采集您的任何信息**，访问经过HTTPS加密。
 
 本网站呈现的内容经过筛选，任何隐私泄露都是不可容忍的。
 
@@ -40,7 +32,7 @@ Welcome to Project Raki, a project for everyone in Nankai University.
 + 微信公众号“skyer选课”
 + psyduck
 + zc
-+ 右侧栏目中的贡献者
+
 ...
 
 ### 贡献内容
@@ -49,9 +41,9 @@ Welcome to Project Raki, a project for everyone in Nankai University.
 
 **[MarkDown语法（中文）](https://markdown-zh.readthedocs.io/en/latest/overview/)**
 
-此项目已在[GitHub开源](https://github.com/Shall-We-Dance/ProjectRaki)，欢迎Pull Request！
+请先Folk本项目，在`docs`文件夹中完成创作，并Pull Requst到主线。
 
-请在`docs`文件夹中完成创作，完成后网站自动刷新。
+在Pull Request完成后完成后网站会使用Github Action自动刷新。
 
 我们使用[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可。
 
