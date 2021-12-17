@@ -32,6 +32,7 @@ Welcome to Project Raki, a project for everyone in Nankai University.
 + 微信公众号“skyer选课”
 + psyduck
 + zc
++ Wu YX
 
 ...
 
