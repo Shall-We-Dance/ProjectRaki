@@ -36,6 +36,11 @@ Welcome to Project Raki, a project for everyone in Nankai University.
 
 ...
 
+### 简短提问
+
+欢迎使用Github的[Issues](https://github.com/Shall-We-Dance/ProjectRaki/issues)页面进行提问。
+
+
 ### 贡献内容
 
 本文档使用MarkDown语言完成，请将文本编辑为MarkDown格式。
