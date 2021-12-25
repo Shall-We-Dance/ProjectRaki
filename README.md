@@ -1,28 +1,22 @@
 # Project Raki
 
-Welcome to Project Raki, a project for everyone in Nankai University.
+Welcome to Project Raki.
+
+南开大学选课指南。
 
 ## 网址
 
-目前启动以下网址，可能会随时间更新，请关注。
-
-**[nkuhole.com（推荐）](https://nkuhole.com)**
-
-**[www.nkuhole.com（备份）](https://www.nkuhole.com)**
-
-**[raki.w-m.fun](https://raki.w-m.fun)**
-
-**[raki.greysea.cc](https://raki.greysea.cc)**
-
-除备份外，非推荐网址将在平时301重定向至推荐网址。
+**[nkuhole.com](https://nkuhole.com)**
 
 ## 隐私
 
 本网站与内容分发网络（CDN）**不会采集您的任何信息**，访问经过HTTPS加密。
 
-本网站呈现的内容经过筛选，任何隐私泄露都是不可容忍的。
+本网站呈现的内容经过隐私过滤。
 
 ## 参与 Project Raki
+
+我们坚持**开放、平等、协作、快速、共享**的互联网精神，如果你喜欢我们，请让此项目帮助更多人。
 
 ### 致谢
 
@@ -47,7 +41,7 @@ Welcome to Project Raki, a project for everyone in Nankai University.
 
 **[MarkDown语法（中文）](https://markdown-zh.readthedocs.io/en/latest/overview/)**
 
-请先Folk本项目，在`docs`文件夹中完成创作，并Pull Requst到主线。
+请在`docs`文件夹中完成创作，并在完成后提交[Pull Requst](https://github.com/Shall-We-Dance/ProjectRaki/pulls)。
 
 在Pull Request完成后完成后网站会使用Github Action自动刷新。
 
