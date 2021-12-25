@@ -29,7 +29,7 @@ Welcome to Project Raki.
 内容贡献者:
 
 + W.M.
-+ 微信公众号“skyer选课”
++ 微信公众号“[skyer选课](https://mp.weixin.qq.com/s/fn_ZiamPErfREjNBMhRx_Q)”
 + psyduck
 + zc
 + Wu YX
