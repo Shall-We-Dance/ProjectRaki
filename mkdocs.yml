@@ -2,10 +2,15 @@ site_name: Project Raki
 theme:
   logo: assets/logo.png
   favicon: assets/logo.png
+  icon:
+    repo: fontawesome/brands/git-alt
   name: material
   language: zh
   features:
     - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
   palette:
     scheme: default
     primary: deep purple
@@ -14,6 +19,11 @@ theme:
     text: 'Quicksand'
 markdown_extensions:
   - attr_list
+plugins:
+  - search:
+      lang: 
+        - zh
+        - en
 copyright: Copyright &copy; 2018 - 2021 Project Raki
 extra:
   generator: false
@@ -22,3 +32,6 @@ extra:
       link: https://github.com/Shall-We-Dance/ProjectRaki
     - icon: fontawesome/solid/paper-plane
       link: mailto:<wm@greysea.cc>
+      
+repo_url: https://github.com/Shall-We-Dance/ProjectRaki
+repo_name: Project Raki @Github
