@@ -4,7 +4,8 @@ theme:
   favicon: assets/logo.png
   name: material
   language: zh
-  
+  features:
+    - navigation.indexes
   palette:
     scheme: default
     primary: deep purple
