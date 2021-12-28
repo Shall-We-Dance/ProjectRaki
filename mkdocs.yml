@@ -14,7 +14,7 @@ theme:
   palette:
     scheme: default
     primary: deep purple
-    accent: red
+    accent: deep purple
   font:
     text: 'Quicksand'
 markdown_extensions:
