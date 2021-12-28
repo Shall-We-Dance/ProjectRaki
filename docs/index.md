@@ -42,6 +42,8 @@ Welcome to Project Raki.
 
 本文档使用MarkDown语言完成，本项目使用GitHub Action实现自助提交，自动更新。
 
+**你可以点击右上角编辑按钮进行编辑。**
+
 详见GitHub[ProjectRaki](https://github.com/Shall-We-Dance/ProjectRaki)。
 
 
