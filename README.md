@@ -43,7 +43,9 @@ Welcome to Project Raki.
 
 **[MarkDown语法（中文）](https://markdown-zh.readthedocs.io/en/latest/overview/)**
 
-请在`docs`文件夹中完成创作，并在完成后提交[Pull Requst](https://github.com/Shall-We-Dance/ProjectRaki/pulls)。
+您可以直接点击[Project Raki](https://nkuhole.com)每个页面右上角编辑按钮定位到相关文档进行编辑。
+
+如需系统性编辑，添加页面/栏目等，请在`docs`文件夹中完成创作，并在完成后提交[Pull Requst](https://github.com/Shall-We-Dance/ProjectRaki/pulls)。
 
 在Pull Request完成后完成后网站会使用Github Action自动刷新。
 
