@@ -32,10 +32,11 @@ Welcome to Project Raki.
 
 ...
 
-### 简短提问
+### 简单互动
 
 欢迎使用Github的[Issues](https://github.com/Shall-We-Dance/ProjectRaki/issues)页面进行提问。
 
+**欢迎使用Github的[Discussions](https://github.com/Shall-We-Dance/ProjectRaki/discussions)页面进行交流。**
 
 ### 贡献内容
 

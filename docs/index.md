@@ -14,6 +14,12 @@ Welcome to Project Raki.
 
 你可以在右上角搜索框搜索任何东西。
 
+### 简单互动
+
+欢迎使用Github的[Issues](https://github.com/Shall-We-Dance/ProjectRaki/issues)页面进行提问。
+
+**欢迎使用Github的[Discussions](https://github.com/Shall-We-Dance/ProjectRaki/discussions)页面进行交流。**
+
 ## 隐私
 
 本网站与内容分发网络（CDN）**不会采集您的任何信息**，访问经过HTTPS加密。
