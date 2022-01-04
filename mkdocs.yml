@@ -24,7 +24,7 @@ plugins:
       lang: 
         - zh
         - en
-copyright: Copyright &copy; 2018 - 2021 Project Raki
+copyright: Copyright &copy; 2018 - 2022 Project Raki
 extra:
   generator: false
   social:
