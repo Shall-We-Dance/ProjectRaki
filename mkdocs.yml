@@ -14,8 +14,8 @@ theme:
   palette: 
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep purple
-      accent: deep purple
+      primary: deep orange
+      accent: deep orange
       toggle:
         icon: material/weather-sunny
         name: 夜间模式
