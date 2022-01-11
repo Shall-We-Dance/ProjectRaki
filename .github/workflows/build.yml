@@ -4,13 +4,6 @@ on:
   push:
     branches:
       - main
-  #PR触发
-  #pull_request:
-  #  branches:
-  #    - main
-  # schedule:
-    # 每天6:30和18:30触发
-    # - cron:  '30 6,18 * * *'
   workflow_dispatch:
 
 jobs:
