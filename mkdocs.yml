@@ -12,13 +12,17 @@ theme:
     - search.suggest
     - search.highlight
   palette: 
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: deep purple
       accent: deep purple
-    - scheme: default
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-    - scheme: slate 
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate 
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/weather-night
         name: Switch to light mode    
