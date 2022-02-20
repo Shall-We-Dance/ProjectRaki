@@ -1,7 +1,7 @@
 site_name: Project Raki
 theme:
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: material/glass-wine
+  favicon: material/glass-wine
   icon:
     repo: fontawesome/brands/git-alt
   name: material
