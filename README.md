@@ -32,23 +32,11 @@ Welcome to Project Raki.
 
 ...
 
-### 简单互动
-
-欢迎使用Github的[Issues](https://github.com/Shall-We-Dance/ProjectRaki/issues)页面进行提问。
-
-**欢迎使用Github的[Discussions](https://github.com/Shall-We-Dance/ProjectRaki/discussions)页面进行交流。**
-
 ### 贡献内容
 
 本文档使用MarkDown语言完成，请将文本编辑为MarkDown格式。
 
 **[MarkDown语法（中文）](https://markdown-zh.readthedocs.io/en/latest/overview/)**
-
-您可以直接点击[Project Raki](https://nkuhole.com)每个页面右上角编辑按钮定位到相关文档进行编辑。
-
-如需系统性编辑，添加页面/栏目等，请在`docs`文件夹中完成创作，并在完成后提交[Pull Requst](https://github.com/Shall-We-Dance/ProjectRaki/pulls)。
-
-在Pull Request完成后完成后网站会使用Github Action自动刷新。
 
 我们使用[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可。
 
