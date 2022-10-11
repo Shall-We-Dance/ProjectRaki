@@ -4,8 +4,6 @@ Welcome to Project Raki.
 
 南开大学选课指南。
 
-我们已经完全在[GitHub开源](https://github.com/Shall-We-Dance/ProjectRaki)啦，欢迎来收藏/贡献内容！
-
 ## 网址
 
 **[nkuhole.com](https://nkuhole.com)**
@@ -13,12 +11,6 @@ Welcome to Project Raki.
 ## 搜索
 
 你可以在右上角搜索框搜索任何东西。
-
-### 简单互动
-
-欢迎使用Github的[Issues](https://github.com/Shall-We-Dance/ProjectRaki/issues)页面进行提问。
-
-**欢迎使用Github的[Discussions](https://github.com/Shall-We-Dance/ProjectRaki/discussions)页面进行交流。**
 
 ## 隐私
 
@@ -49,11 +41,6 @@ Welcome to Project Raki.
 ### 贡献内容
 
 本文档使用MarkDown语言完成，本项目使用GitHub Action实现自助提交，自动更新。
-
-**你可以点击右上角编辑按钮进行编辑。**
-
-详见GitHub[ProjectRaki](https://github.com/Shall-We-Dance/ProjectRaki)。
-
 
 ### 联系方式
 
