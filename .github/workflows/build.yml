@@ -1,25 +1,24 @@
 name: Publish docs via GitHub Pages
 on:
-  #push触发
   push:
     branches:
       - main
   workflow_dispatch:
 
 jobs:
-  build:
+  bulid:
     name: Deploy docs
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main
-        uses: actions/checkout@v2
-
-      - name: Deploy docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CUSTOM_DOMAIN: www.nkuhole.com
-          CONFIG_FILE: ./mkdocs.yml
-          EXTRA_PACKAGES: build-base
-          # GITHUB_DOMAIN: github.myenterprise.com
-          # REQUIREMENTS: folder/requirements.txt
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+      - name: Install Python libraries
+        run: pip install pillow cairosvg mkdocs-glightbox
+      - run: pip install mkdocs-material
+      - run: mkdocs gh-deploy --force
