@@ -1,4 +1,6 @@
 site_name: Project Raki
+site_url: https://www.nkuhole.com
+site_description: 南开大学选课指南
 theme:
   logo: assets/glass-wine.svg
   favicon: assets/glass-wine.svg
@@ -31,6 +33,8 @@ theme:
 markdown_extensions:
   - attr_list
 plugins:
+  - social
+  - glightbox
   - search:
       lang: 
         - zh
